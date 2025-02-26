@@ -1,7 +1,7 @@
-# Currículo Online
+# Currículo Online - [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
 
-Este é um projeto simples de uma página única de currículo, desenvolvido com HTML semântico, focado em boas práticas de SEO e integração com Open Graph Tags.
 
+Este é um projeto simples de uma página única de currículo, desenvolvido com HTML semântico, focado em boas práticas de SEO e integração com Open Graph Tags. 
 ## Acesso ao Projeto
 
 Para visualizar o currículo online, basta acessar o arquivo `index.html` diretamente no GitHub ou clonar o repositório e abrir o arquivo no seu navegador.
